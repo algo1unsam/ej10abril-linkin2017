@@ -7,7 +7,7 @@ object trajeDeBruja {
 //La barba asusta 5 veces su longitud. La longitud de la barba puede variar,
 // con el tiempo va perdiendo pelos y se acorta o la mamá de uno de los chicos le agrega pelos para que dure más.
 object barba {
-	var longitud 
+	var longitud = 2
 	//seter
 	method setLongitud(_longitud){
 		longitud =_longitud
